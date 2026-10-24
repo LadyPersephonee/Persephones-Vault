@@ -10,3 +10,6 @@
 [[Gerarchia T,S]]
 [[Il Modello Logico]]
 [[Il Modello Relazionale]]
+[[Chiave Primaria]]
+test dr sincro
+
