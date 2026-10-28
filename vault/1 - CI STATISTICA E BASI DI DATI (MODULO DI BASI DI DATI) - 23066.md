@@ -11,5 +11,13 @@
 [[Il Modello Logico]]
 [[Il Modello Relazionale]]
 [[Chiave Primaria]]
-test dr sincro
+[[Vincoli (Costraints)]]
+[[Indici]]
+[[Chiavi Potenziale e Secondarie]]
+[[Vincoli di Integrita Referenziale]]
+[[Progetto Logico]]
+[[Relezioni]]
+[[Interrogazioni nel Modello Relazionale]]
+
+
 
