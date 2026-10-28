@@ -18,6 +18,7 @@
 [[Progetto Logico]]
 [[Relezioni]]
 [[Interrogazioni nel Modello Relazionale]]
+[[Operatori]]
 
 
 
