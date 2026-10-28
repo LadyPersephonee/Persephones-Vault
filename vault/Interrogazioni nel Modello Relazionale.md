@@ -1,0 +1,5 @@
+[[DDL]]
+[[DML]]
+[[Algebra Relazionale]]
+[[SQL]]
+[[Proprieta di Chiusura]]

@@ -10,3 +10,14 @@
 [[Gerarchia T,S]]
 [[Il Modello Logico]]
 [[Il Modello Relazionale]]
+[[Chiave Primaria]]
+[[Vincoli (Costraints)]]
+[[Indici]]
+[[Chiavi Potenziale e Secondarie]]
+[[Vincoli di Integrita Referenziale]]
+[[Progetto Logico]]
+[[Relezioni]]
+[[Interrogazioni nel Modello Relazionale]]
+
+
+
